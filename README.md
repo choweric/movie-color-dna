@@ -5,9 +5,16 @@ In 2000, Jason Salavon's "The Top Grossing Film of All Time, 1 x 1"
 
 Based on these ideas, this mini-projec is Python code for creating a color sequence of frames from a movie (mp4 file). The program is based on Python code by Andrew Campbell (https://github.com/andrewdcampbell/movie-barcodes), with one change: the resulting color sequence of the movie are rearranged from the sequential order (time)  to HUE color space order. This way, the color components of different movies can be in a more meaningful way. Each movie has its own HUE color sequence, and thus a DNA. 
 
+Blade RUnner (1982) - Color Sequence
+![alt text](https://raw.githubusercontent.com/choweric/movie-color-dna/main/blade_runner_color_seq.jpg?token=GHSAT0AAAAAABZUD7TPYYEL2AFYTM7U6EEEY2BQXLA)
 
-Blade Runner 2049 - Color Sequence
+Blade RUnner (1982) - Color DNA
+![alt text](https://raw.githubusercontent.com/choweric/movie-color-dna/main/blade_runner_dna.jpg?token=GHSAT0AAAAAABZUD7TPVFH6JLOIOJ7E3RKGY2BQXIQ)
+
+
+
+Blade Runner 2049 (2017) - Color Sequence
 ![alt text](https://raw.githubusercontent.com/choweric/movie-color-dna/main/blade_runner_2049_color_seq.jpg?token=GHSAT0AAAAAABZUD7TO6YP3BGFGTI5WP2RSY2BQUFA)
 
-Blade Runner 2049 - Color DNA
+Blade Runner 2049 (2017) - Color DNA
 ![alt text](https://raw.githubusercontent.com/choweric/movie-color-dna/main/blade_runner_2049_dna.jpg?token=GHSAT0AAAAAABZUD7TP56SAFEKWJSEURXS2Y2BQVUQ)
